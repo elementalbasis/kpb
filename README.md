@@ -18,3 +18,10 @@ The Latin translation is taken from the
 
 The Slavonic translation is taken from the
 [Elizabeth Bible](https://github.com/scrollmapper/bible_databases/blob/master/sources/cu/CSlElizabeth/CSlElizabeth.json).
+
+## English
+
+The English translation is composed of
+[Brenton's Septuagint](https://ebible.org/find/details.php?id=eng-Brenton)
+for the Old Testament and
+[https://github.com/eastrocky/dra](Douay-Rheims) for the New Testament.
