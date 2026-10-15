@@ -9,6 +9,11 @@ The Greek translation is composed of
 [Rahlfs' Septuagint](https://github.com/deuterotheodore/LXX) and the
 [SBL Greek New Testament](https://github.com/FaithLife/SBLGNT).
 
+## Latin
+
+The Latin translation is taken from the
+[Clementine Vulgate](https://github.com/LukeSmithxyz/vul).
+
 ## Slavonic
 
 The Slavonic translation is taken from the
