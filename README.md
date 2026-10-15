@@ -24,4 +24,4 @@ The Slavonic translation is taken from the
 The English translation is composed of
 [Brenton's Septuagint](https://ebible.org/find/details.php?id=eng-Brenton)
 for the Old Testament and
-[https://github.com/eastrocky/dra](Douay-Rheims) for the New Testament.
+[Douay-Rheims](https://github.com/eastrocky/dra) for the New Testament.
