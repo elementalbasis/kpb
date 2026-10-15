@@ -8,3 +8,8 @@ English. Intended to serve as references to translate the Bible into Danetian.
 The Greek translation is composed of
 [Rahlfs' Septuagint](https://github.com/deuterotheodore/LXX) and the
 [SBL Greek New Testament](https://github.com/FaithLife/SBLGNT).
+
+## Slavonic
+
+The Slavonic translation is taken from the
+[Elizabeth Bible](https://github.com/scrollmapper/bible_databases/blob/master/sources/cu/CSlElizabeth/CSlElizabeth.json).
