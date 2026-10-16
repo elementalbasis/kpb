@@ -1,0 +1,4 @@
+# TO DO
+
+* In Rahlfs, the characters "’" and "'" are both used to denote contractions.
+Standardize this throughout the document, and in all other sources.
