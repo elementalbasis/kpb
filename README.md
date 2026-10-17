@@ -5,7 +5,9 @@ English. Intended to serve as references to translate the Bible into Danetian.
 
 * The **Greek** translation is composed of
 [Rahlfs' Septuagint](https://github.com/deuterotheodore/LXX) and the
-[SBL Greek New Testament](https://github.com/FaithLife/SBLGNT).
+[SBL Greek New Testament](https://github.com/FaithLife/SBLGNT). There is also
+the [Robinson-Pierpont edition](https://byzantinetext.com/study/editions/robinson-pierpont/)
+of the New Testament.
 * The **Latin** translation is taken from the
 [Clementine Vulgate](https://github.com/LukeSmithxyz/vul).
 * The **Slavonic** translation is taken from the
